@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/areeburrub](https://dev.to/areeburrub)
 
-- 💬 Ask me about **React, JavaScript, Flask, Pyhton**
+- 💬 Ask me about **React, JavaScript, Flask, Python**
 
 - 📫 How to reach me **areeburrub@gmail.com**
 
