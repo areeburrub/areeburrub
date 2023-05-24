@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi there! My name is Areeb ur Rub and I am a web developer with a passion for creating intuitive and user-friendly websites and applications. I have experience working with frameworks such as React JS, Next JS, and Flask, and am always looking to expand my skill set and learn about new technologies.<br><br>In addition to web development, I am also interested in machine learning and Android development. I have some experience with Firebase and MongoDB, and am always looking to improve my knowledge in these areas as well.<br><br>You can find more information about me and my professional experiences on my LinkedIn profile at linkedin.com/in/areeburrub.<br><br>I am always looking to connect with others in the field and am excited to share my knowledge and experiences with others. Let's make some great things happen!
+Hi there! My name is Areeb ur Rub, and I am a web developer with a passion for creating intuitive and user-friendly websites and applications. I specialize in utilizing frameworks like React JS, Next JS, and Flask to build dynamic and responsive interfaces.
+
+I am proficient in Tailwind CSS, a powerful utility-first CSS framework that enables me to create modern and customizable designs efficiently.
+
+In addition to my web development skills, I have experience deploying websites, ensuring they are accessible to a wider audience and showcasing my work effectively.
+
+I am currently diving into the exciting world of web3, exploring decentralized technologies and learning how to develop decentralized applications (dApps). I am also gaining proficiency in Solidity, the smart contract language used in Ethereum, for creating secure and transparent applications.
+
+Beyond web development, I have a keen interest in machine learning and Android development. I have hands-on experience with Firebase and MongoDB, and I am continuously expanding my knowledge in these areas.
+
+Feel free to connect with me on LinkedIn (linkedin.com/in/areeburrub) to learn more about my professional experiences and projects. I am always eager to connect with like-minded individuals, share my knowledge, and collaborate on exciting projects. Let's create something extraordinary together!
 
 
 ## 🌐 Socials:
